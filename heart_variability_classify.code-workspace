@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "atmega2560",
+			"path": "../../../PlatformIO/Projects/atmega2560"
+		}
+	],
+	"settings": {}
+}
